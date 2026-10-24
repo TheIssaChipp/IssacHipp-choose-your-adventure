@@ -1,7 +1,7 @@
 
 # ✨ A Markdown-Based Adventure Framework
 
-Welcome! This repo hosts interactive, emoji-powered **"choose your own adventure"** stories written entirely in Markdown. Each story is structured with branching scenes, embedded choices, and a clear path system — designed for maximum flexibility and fun.
+Welcome! This repo hosts interactive **"choose your own adventure"** stories written entirely in Markdown. Each story is structured with branching scenes, embedded choices, and a clear path system — designed for maximum flexibility and fun.
 
 If you'd like to create your own interactive story using this format, read on!
 
