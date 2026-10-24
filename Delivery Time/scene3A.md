@@ -17,8 +17,8 @@ The judge stares you down before he speaks.
 
 "Care to explain your actions?"
 
-- ["The store has been illegaly docking my pay, I had no choice".](./scene4A.md)
+- ["The store has been illegaly docking my pay, I had no choice".](./scene4b.md)
 
 - ["I liked what I did, and I'm itching to hit more people with pizza".](./scene4B.md)
-- [Locked Answer]
+- [Locked Answer] 
 

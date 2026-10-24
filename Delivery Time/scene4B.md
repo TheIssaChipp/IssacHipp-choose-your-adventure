@@ -9,4 +9,4 @@ The judge bangs his gavel and you are taken away...
 
 - [Go back in time](./scene3aBIT.md)
 
-- [Go to prison](./scene5C.md)
+- [Go to prison](./prison.md)
