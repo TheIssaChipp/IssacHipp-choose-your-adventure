@@ -1,14 +1,14 @@
 
-# Space Battles - Episode IV: A New Spark
+# Delivery Time
 
-## 🎬 Opening Crawl
+## "The World's Worst Superhero"
 
-### EPISODE IV: A NEW SPARK
+It is 11pm on a Friday, and the streets of New York are bustling. Horns are honking, people are yelling, and the Pizza Parlor you work at is busier than ever. With the phone seemingly never not ringing, your shift can't seem to end soon enough... Too bad you're working the night shift.
 
-It is a time of rebellion. Scattered freedom fighters wage a desperate war against a tyrannical Galactic Dominion that rules the stars with an iron grip.
+As you park your store provided delivery bike in front of the store, you pat your pockets and realise you forgot your bike lock at home.
 
-In a daring strike, the rebels have acquired secret plans to the Dominion’s ultimate weapon — a moon-sized battle station with the power to destroy entire planets.
+On your wrist rests a golden watch. It was passed down from your father, and his father, and his father before him. When you twist the hands in a certain way, it sends you back in time. After a brief venture into attempting to be a superhero, you realised your lack of any other powers and the bruises were not paying the bills for your apartment, and your mother forbid you from selling the watch.
 
-Pursued by Dominion warships, a lone diplomatic cruiser races home, carrying hope for the galaxy… and destiny for a farm boy on a forgotten desert world.
+With your shift hours away from completion, you look towards the entrance of your Pizza Parlor, ready to get it over with.
 
-- 🚀 [Begin your journey](./scene1.md)
+- [Get to work.](./scene1.md)

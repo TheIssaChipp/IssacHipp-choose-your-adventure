@@ -1,12 +1,16 @@
 
-# 💥 Scene 4C: Fight the Scavengers
+# Pulling Strings
 
-You draw a makeshift blaster and take a wild shot. One scavenger goes down, but the rest close in.
+The judge looks at you in awe, and a tear falls from his eyes.
 
-Just as you're about to be overwhelmed — a burst of light! A glowing energy blade cuts through the air.
+"I understand your peril".
 
-Old Ken emerges from the rocks and drives the scavengers away.
+He breathes deep...
 
-> “Not bad,” he smirks. “But next time, try calling for help first.”
+"Mrs. Pizza Parlor, I sentence you to life in prison, no parole".
 
-- ⚔️ [Train with Old Ken](./scene4A.md)
+The court erupts in outrage, and someone throws a waterbottle at the judge, who ducks and runs out of the courtroom.
+
+The police toss you onto the street, where a flock of reporters barrage you with questions.
+
+- [Get back to your life.](./scene4A.md)

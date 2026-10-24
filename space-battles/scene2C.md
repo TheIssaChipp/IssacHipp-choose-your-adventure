@@ -1,12 +1,9 @@
 
-# 👨‍🌾 Scene 2C: A Word With Your Uncle
+# Choosing Violence
 
-You tell your uncle about the message. His face goes pale.
 
-> "Forget you saw that. Those people are trouble."
+You push your way into the back and smash the pizzas into your bosses face. She stumbles back, furious! Her clothes are covered in pizza sauce and pepperoni. A cop from the crowd inside the parlor pushes past the sales counter, latching your hand without the watch into a handcuff. The officer reaches for your other hand...
 
-He insists you wipe the droid and stay away from the canyon lands. But now you’re more curious than ever.
+- [Go back in time.](./scene1.md)
 
-- 🧽 [Obey — wipe the droid’s memory and get back to chores](./scene3F.md)
-
-- 🤫 [Keep the message and sneak out at night](./scene3A.md)
+- [Accept the consequences of your actions.](./scene3A.md)

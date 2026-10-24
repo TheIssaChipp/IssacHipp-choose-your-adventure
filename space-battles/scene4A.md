@@ -1,14 +1,10 @@
 
-# ⚔️ Scene 4A: The Way of the Spark
+# Regrets
 
-Old Ken begins your training. You learn to feel the energy that flows through all living things — the Spark.
+You make it back to your apartement, and find an eviction notice at the foot of your door when you get home. Your wallet is empty, just like your bank account.
 
-> “The Spark is what gives us strength. A connection… a guide.”
+You search online for new jobs, and only find a popular pizza parlor hiring.
 
-He also tells you of the Dominion’s planet-killing battle station and the rebel fighters trying to stop it.
+- [Become homeless](./scene5A.md)
 
-Soon, a distress call arrives: the cloaked woman has been captured. The Dominion is headed for her homeworld next.
-
-- 🚀 [Agree to help Old Ken reach the rebels](./scene5A.md)
-
-- 🧭 [Ask to complete your training first — you’re not ready yet](./scene5B.md)
+- [Apply to the popular pizza parlor.](./scene5B.md)

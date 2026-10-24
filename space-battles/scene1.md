@@ -1,18 +1,17 @@
 
-# 🌵 Scene 1: The Desert World
+# The Pizza Parlor
 
-You are a restless teen living on a dry, isolated planet, helping your aunt and uncle run a moisture farm. You've always dreamed of more — of flying, of fighting, of being something greater.
+As you step past a "Guaranteed delivery in 30 minutes or less!" sign, the smell of dough flushes your face. The Parlor is overflowing, and as if on cue, the store phone immediately rings and an employee scribbles down an order. By the time you're able to push your way past the crowd in the parlor, two boxes of pizzas are shoved into your hands.
 
-Today, while cleaning a dusty old helper droid, you stumble on a hidden recording…
-
-> 💬 “Help me, wise traveler… you’re my only hope…”
+You read the delivery notes for an address on the opposite side of town!
+Scribbled beneath the address is "Your pay will be docked for every minute above thiry minutes you take. PS- your last delivery was 2 minutes over, skip your lunch break."
 
 What do you do?
 
-- 🛠️ [Play the full message and try to find out who the woman is](./scene2A.md)
+- [Drop the pizza, and leave to go sell the watch.](./scene2A.md)
 
-- 🙈 [Ignore it — probably just a glitch](./scene2B.md)
+- [Book it to your bike to deliver the pizza.](./scene2B.md)
 
-- 🧓 [Tell your uncle — maybe he’ll know what to do](./scene2C.md)
+- [Smash the pizza into your bosses face.](./scene2C.md)
 
 

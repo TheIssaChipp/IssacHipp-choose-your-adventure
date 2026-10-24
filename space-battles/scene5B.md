@@ -1,10 +1,10 @@
 
-# 🧘 Scene 5B: Training Delay
+# Time is a Loop
 
-You ask Old Ken for more time to train. He agrees, but warns: “The Spark grows stronger in action.”
+You apply to the pizza parlor, when you go for your interview, the boss doesn't seem to recognize you. In fact, she doesn't even interview you, really.
 
-That night, he receives word: the cloaked woman has been captured. The Dominion’s battle station is on the move — and it’s heading for her homeworld.
+She only asks...
 
-You can’t wait any longer.
+"I need to be fast. Do you want the job?"
 
-- 🛩️ [Find a pilot and flee the planet with Ken](./scene5A.md)
+- ["Yes!"](./scene5A.md)

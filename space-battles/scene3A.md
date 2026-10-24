@@ -1,16 +1,24 @@
 
-# 🏜️ Scene 3A: The Canyon Hermit
+# Consequences.
 
-You sneak away under the twin suns and head into the rocky canyonlands. After hours of walking, a hooded figure steps from the shadows.
+The cop latches both of your hands in the cuffs.
 
-> “You’ve come a long way, traveler… I am Old Ken.”
+"You're going away for a long time, pal".
 
-He listens to your story, then shows you a hidden device — a glowing blade of energy once wielded by defenders of peace.
+The officer confiscates your watch and phone for evidence.
 
-> “This was your father's. The Dominion hunted our kind. But the spark lives on… in you.”
+# Weeks later, on trial...
 
-What now?
+The judge bangs his gavel and the smack causes a piercing echo in the courtroom. Due to your dock in pay and overall poor financial situation, you have to defend yourself in court. Upon request, you were given your watch back. 
 
-- ⚔️ [Train with Old Ken and learn the ways of the spark](./scene4A.md)
+While not confirmed, the local news outlet spread rumors that the arresting officer lost his mind and "That person- excuse me, that DEMON cursed me, their watch put me in a time loop, I was lost... Why is everyone laughing? I'M NOT CRAZY!". Whatever the circumstance is, the prosecution has dropped him as a witness.
 
-- 🏃 [This is too much — run back home before things get worse](./scene4B.md)
+The judge stares you down before he speaks.
+
+"Care to explain your actions?"
+
+- ["The store has been illegaly docking my pay, I had no choice".](./scene4A.md)
+
+- ["I liked what I did, and I'm itching to hit more people with pizza".](./scene4B.md)
+- [Locked Answer]
+

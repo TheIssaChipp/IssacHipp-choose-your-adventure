@@ -1,16 +1,12 @@
 
-# 🏃 Scene 4B: Second Thoughts
+# The Punisher
 
-You panic and bolt from Old Ken’s cave, running until your lungs burn. But when you return home… it’s too late.
+The courtroom erupts in havoc, the judge bangs his gavel again.
 
-Troopers in white armor have razed the farm. Your family is gone. The droid, missing.
+"I find you guilty and sentence you to life in prison, no parole ever. You have some nerve to speak to a judge of the law like that. I am against evil bosses as much as anyone, in fact, my old boss in Omaha, Nebraska was an absolute nightmare. He hit me over the head with a microwave, and I have sympathy for the working person being done wrong, however violence is not always the best choice... Anyway, enjoy prison".
 
-You fall to your knees. This wasn’t just some message — this was war.
+The judge bangs his gavel and you are taken away...
 
-Old Ken appears behind you.
+- [Go back in time](./scene3aBIT.md)
 
-> “There’s no going back. But there is a path forward.”
-
-- 💥 [Join Old Ken and fight for the rebellion](./scene5A.md)
-
-- 🛩️ [Steal a local speeder and try to escape the planet](./scene5C.md)
+- [Go to prison](./scene5C.md)
