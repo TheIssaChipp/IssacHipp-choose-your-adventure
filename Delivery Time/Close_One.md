@@ -6,7 +6,7 @@ She looks at you, then nods
 
 A stash of pizzas are again pushed into your hands.
 
-[Rush to your bike to deliver the pizza.]
+[Rush to your bike to deliver the pizza.](./RobotStop.md)
 [Smash the pizzas into your bosses face.](./Choosing_Violence.md)
 
 

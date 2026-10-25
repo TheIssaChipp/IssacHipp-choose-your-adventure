@@ -1,4 +1,4 @@
-## Ending 4: The Loop Ends.
+## Ending Four: The Loop Ends.
 # Isn't This Where We Came In?
 
 You work for weeks. The boss doesn't seem to like you, or notice you, or care about you... They only need fast delivery. Since introducing a new "Thirty minutes or less" delivery deal, you're pay has been docked for going over numerous times, and frustration is rising for you, fast. So much frustration, that you forgot your bike lock at home today.

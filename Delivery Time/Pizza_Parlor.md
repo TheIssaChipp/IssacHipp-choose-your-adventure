@@ -10,7 +10,7 @@ What do you do?
 
 - [Drop the pizza, and leave to go sell the watch.](./Goodbye.md)
 
-- [Book it to your bike to deliver the pizza.](./scene2B.md)
+- [Book it to your bike to deliver the pizza.](./RobotStop.md)
 
 - [Smash the pizza into your bosses face.](./Choosing_Violence.md)
 

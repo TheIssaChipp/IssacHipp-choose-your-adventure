@@ -6,5 +6,4 @@ You sigh, then take the offer. The worker swipes the watch and tosses a wad of t
 
 You sigh, embarrased as you leave.
 
-[Go back to the pizza parlor](./WhoopsieB.md)
-[Go home](./Regrets.md)
+[Go home](./RegretsB.md)

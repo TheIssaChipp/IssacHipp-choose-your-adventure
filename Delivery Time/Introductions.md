@@ -16,4 +16,4 @@ They look down in shame.
 
 [Punch them anyway](./Prison_Demon.md)
 
-[Make friends with them.]
+[Make friends with them.](./Friends_In_Low_Places.md)

@@ -20,5 +20,5 @@ He brings you to the front of the prison, and immediately gets to barraging you 
 
 "Where'd you get it?"..."Is that real gold?"..."Is it cursed?"..."Why'd you punch that pizza parlor boss?"...
 
-[Answer the questions]
+[Answer the questions](./Done_Proper.md)
 [Run away](./Time_to_Run.md)

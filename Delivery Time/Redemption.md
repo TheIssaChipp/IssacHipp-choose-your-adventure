@@ -6,5 +6,5 @@ The man shakes his head.
 
 He looks down "Can you tell me more about it? Where'd you get it?".
 
-[Tell him everything]
+[Tell him everything](./At_Least_Ask.md)
 [Make a deal with him](./The_Swindler)

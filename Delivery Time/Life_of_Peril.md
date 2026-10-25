@@ -19,5 +19,5 @@ You greet them, "Hello, who are you?"
 
 You're stunned.
 
-[Berate them.]
+[Berate them.](./Huh.md)
 [Apologize for your actions.](./Redemption.md)

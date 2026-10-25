@@ -1,4 +1,4 @@
-## Ending 3: Home Is Where The Heart Is
+## Ending Three: Home Is Where The Heart Is
 
 You spend your life roaming the streets from town to town. Sleeping in the trees in the winter and camping on the mountains in the summer.
 

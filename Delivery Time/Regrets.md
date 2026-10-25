@@ -5,7 +5,7 @@ You make it back to your apartement, and find an eviction notice at the foot of 
 
 And you're jobless.
 
-You search online for new jobs, and only find a popular pizza parlor hiring.
+You search online for new jobs, and only find a popular pizza parlor hiring for the night shift.
 
 - [Become homeless](./Homeless.md)
 
