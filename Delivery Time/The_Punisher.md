@@ -7,6 +7,6 @@ The courtroom erupts in havoc, the judge bangs his gavel again.
 
 The judge bangs his gavel and you are taken away...
 
-- [Go back in time](./scene3aBIT.md)
+- [Go back in time](./ConsequencesB.md)
 
-- [Go to prison](./prison.md)
+- [Go to prison](./Prison.md)

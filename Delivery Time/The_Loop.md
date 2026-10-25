@@ -5,7 +5,7 @@ You work for weeks. The boss doesn't seem to like you, or notice you, or care ab
 
 Tonight you have the night shift. It is 10pm when you arrive at work and get a delivery instantly pushed into your hands. Your only device of delivery - besides on foot - is a store provided bike. You pedal as hard as you can there, and back to the parlor.
 
-- 🌌 [](./_start-here.md)
+- [Park your bike](./_start-here.md)
 
 
 

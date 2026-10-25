@@ -8,10 +8,10 @@ Scribbled beneath the address is "Your pay will be docked for every minute above
 
 What do you do?
 
-- [Drop the pizza, and leave to go sell the watch.](./scene2A.md)
+- [Drop the pizza, and leave to go sell the watch.](./Goodbye.md)
 
 - [Book it to your bike to deliver the pizza.](./scene2B.md)
 
-- [Smash the pizza into your bosses face.](./scene2C.md)
+- [Smash the pizza into your bosses face.](./Choosing_Violence.md)
 
 

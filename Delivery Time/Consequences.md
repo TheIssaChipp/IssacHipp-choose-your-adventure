@@ -1,3 +1,4 @@
+
 # Consequences.
 
 The cop latches both of your hands in the cuffs.
@@ -16,7 +17,8 @@ The judge stares you down before he speaks.
 
 "Care to explain your actions?"
 
-- ["The store has been illegaly docking my pay, I had no choice".](./scene4B.md)
+- ["The store has been illegaly docking my pay, I had no choice".](./The_Punisher.md)
 
-- ["I liked what I did, and I'm itching to hit more people with pizza".](./scene4B.md)
-- UNLOCKED! -> ["My boss hit me with a microwave, I was defending myself".](./scene4C.mdmd)
+- ["I liked what I did, and I'm itching to hit more people with pizza".](./The_Punisher.md)
+- [Locked Answer] 
+

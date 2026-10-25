@@ -6,5 +6,5 @@ As you walk into your prison cell, you're met with your cellmate. A seven foot t
 
 All the movie quotes ring in your head, "When you go to prison... Punch the biggest guy there, everyone will respect you".
 
-["Introduce yourself"](./#%20Introductions.md)
-["Punch them"]
+["Introduce yourself"](./Introductions.md)
+["Punch them"](./Prison_Demon)

@@ -14,3 +14,6 @@ The titan of a person looks you up and down, before their low growl of a voice c
 
 They look down in shame.
 
+[Punch them anyway](./Prison_Demon.md)
+
+[Make friends with them.]
